@@ -1,0 +1,27 @@
+.flex-box-container-1{
+    display: flex;
+    border: 3px solid blue;
+    padding: 15px;
+    justify-content: space-around;
+    flex-wrap:wrap;
+
+}
+.flex-box-container-1 > div{
+    padding: 14px;
+    align-items: center;
+    border: 2px solid black;
+
+}
+.container-1 {
+    text-align: center;
+    border: 2px solid black;
+}
+#ageindays {
+        font-size: large;
+        font-weight: 500;
+
+}
+
+.flex-box-result{
+    padding: 10px;
+}
